@@ -60,10 +60,6 @@ The complete project documentation, including system design, implementation deta
 
 **Sharath Chandra Chandrashekhar**
 
-## License
-
-This project is intended for educational and learning purposes.
-
 ## How to Run
 
 1. Clone this repository:
