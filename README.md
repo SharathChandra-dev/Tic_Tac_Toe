@@ -1,67 +1,145 @@
-# Tic Tac Toe Android App
+# 🎮 Tic Tac Toe Android Application
 
-A simple Tic Tac Toe game developed in Java for Android. This project was created as a mini-project for the Bachelor of Engineering (Computer Science & Engineering) program.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
 
-## Features
+<p align="center">
+  A modern Android implementation of the classic Tic Tac Toe game built with Java and Android Studio.
+</p>
 
-* Two-player gameplay (X and O)
-* Win detection for rows, columns, and diagonals
-* Draw detection
-* Score tracking system
-* Reset game functionality
-* Simple and intuitive Android UI
+---
 
-## Technologies Used
+## 📖 Overview
 
-* Java
-* Android Studio
-* Android SDK
-* XML
+This project is a fully functional **Tic Tac Toe Android application** developed as part of a Bachelor of Engineering (Computer Science & Engineering) mini-project. The application demonstrates Android development fundamentals, including UI design, event handling, game logic implementation, and state management.
 
-## Project Structure
+---
+
+## ✨ Features
+
+✅ Two-player gameplay (X & O)
+
+✅ Real-time win detection
+
+✅ Draw detection system
+
+✅ Automatic score tracking
+
+✅ Reset game functionality
+
+✅ Responsive Android UI
+
+✅ Lightweight and user-friendly design
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology        | Usage                     |
+| ----------------- | ------------------------- |
+| ☕ Java            | Core Programming Language |
+| 🤖 Android SDK    | Application Framework     |
+| 📱 Android Studio | Development Environment   |
+| 🎨 XML            | User Interface Design     |
+
+---
+
+## 📂 Project Structure
 
 ```text
-├── app/
-│   ├── src/
-│   ├── res/
-│   └── AndroidManifest.xml
-├── Report/
-│   └── Tic_Tac_Toe_Project_Report.pdf
-└── README.md
+📦 Tic-Tac-Toe-Android
+├── 📁 app
+│   ├── 📁 src
+│   ├── 📁 res
+│   └── 📄 AndroidManifest.xml
+├── 📁 Report
+│   └── 📄 Tic_Tac_Toe_Project_Report.pdf
+└── 📄 README.md
 ```
 
-## How to Run
+---
 
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Build and run the application on an Android emulator or device.
+## 🚀 Getting Started
 
-## Project Report
+### 1️⃣ Clone the Repository
 
-The complete project documentation, including system design, implementation details, screenshots, and results, is available in the project report:
+```bash
+git clone https://github.com/SharathChandra-dev/tic-tac-toe-android.git
+```
 
-`Report/Tic_Tac_Toe_Project_Report.pdf`
+### 2️⃣ Open in Android Studio
 
-## Gameplay
+Open Android Studio and select the cloned project folder.
 
-1. Two players take turns placing **X** and **O** on a 3×3 grid.
-2. The first player to get three symbols in a row, column, or diagonal wins.
-3. If all cells are filled without a winner, the game ends in a draw.
-4. Scores are updated automatically after each win.
+### 3️⃣ Run the Application
 
-## Future Improvements
+▶️ Build and run the application on:
 
-* Single-player mode with AI
-* Enhanced UI/UX
-* Sound effects and animations
-* Online multiplayer support
+* Android Emulator
+* Physical Android Device
 
-## Author
+---
 
-**Sharath Chandra Chandrashekhar**
+## 🎯 Gameplay
 
-## How to Run
+🎲 Players take turns placing **X** and **O** on a 3×3 grid.
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/SharathChandra-dev/tic-tac-toe-android.git
+🏆 The first player to align three symbols horizontally, vertically, or diagonally wins.
+
+🤝 If all cells are filled without a winner, the match ends in a draw.
+
+📈 Scores are updated automatically after every win.
+
+---
+
+## 📸 Screenshots
+
+> Add your application screenshots here.
+
+| Home Screen   | Gameplay      |
+| ------------- | ------------- |
+| 📱 Screenshot | 🎮 Screenshot |
+
+---
+
+## 🔮 Future Enhancements
+
+* 🤖 AI-powered Single Player Mode
+* 🌐 Online Multiplayer Support
+* 🎨 Improved UI/UX
+* 🔊 Sound Effects
+* ✨ Animations & Themes
+* 📊 Match Statistics Dashboard
+
+---
+
+## 🎓 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* Android Application Development
+* Java Programming
+* UI/UX Design Principles
+* Event Handling
+* Game Logic Implementation
+* Software Testing & Debugging
+
+---
+
+## 👨‍💻 Author
+
+### **Sharath Chandra Chandrashekhar**
+
+💼 Fullstack Developer 
+
+📱 Android Development Enthusiast
+
+🚀 Passionate about building scalable and user-friendly applications
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
