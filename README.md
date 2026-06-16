@@ -96,16 +96,6 @@ Open Android Studio and select the cloned project folder.
 
 ---
 
-## 📸 Screenshots
-
-> Add your application screenshots here.
-
-| Home Screen   | Gameplay      |
-| ------------- | ------------- |
-| 📱 Screenshot | 🎮 Screenshot |
-
----
-
 ## 🔮 Future Enhancements
 
 * 🤖 AI-powered Single Player Mode
